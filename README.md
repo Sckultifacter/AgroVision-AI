@@ -77,7 +77,7 @@ Machine Learning & Computer Vision
 Pull requests and improvements are welcome.
 
 📜 License
-Add your preferred license (MIT recommended).
+MIT License
 
 💚 Acknowledgements
 Thanks to open-source datasets, tools, and libraries used in this project.
