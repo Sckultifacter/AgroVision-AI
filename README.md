@@ -23,32 +23,27 @@ Fetch real-time crop market prices and trends.
 Process hyperspectral plant data for deeper crop health insights.
 
 ---
-## 📁 Project Structure
-
-chatbot_agribot/
-leaf-diseases-detector/
-market_api_using_econ/
-ph_analysis_mini_project/
-plant_hyperspectral/
-static/
-templates/
-tools/
-main_app.py
 
 ## 📁 Project Structure
 
 /chatbot_agribot → Chatbot module
+
 /leaf-diseases-det... → Leaf disease detection
+
 /market_api_using... → Market price analysis
+
 /ph_analysis_mini... → Soil pH analysis
+
 /plant_hyperspectral → Hyperspectral processing
+
 /static → Assets (CSS, JS, images)
+
 /templates → HTML templates
+
 /tools → Helper utilities
+
 main_app.py → Main Flask application
 
-yaml
-Copy code
 
 ---
 
