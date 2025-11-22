@@ -1,6 +1,7 @@
 # 🌾 Smart Agri AI Suite
 
-A simple, human-friendly all-in-one agriculture toolkit that combines multiple smart farming tools into one platform. This project helps users detect plant diseases, analyze soil pH, get market insights, chat with an agri-assistant bot, and work with hyperspectral plant data.
+Smart Agri AI Suite is an easy-to-use collection of intelligent farming tools built to support farmers, students, and researchers. It includes AI-powered plant disease detection, soil pH estimation, market trend tracking, a friendly chatbot for farm-related queries, and hyperspectral plant analysis features—all combined into a single clear and accessible platform.
+
 
 ---
 
